@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav1575&" alt="anubhav1575" /></p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav1575&" alt="anubhav1575" /></p>
 <p>
   </p>
 
