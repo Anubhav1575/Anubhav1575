@@ -29,8 +29,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anubhav1575&show_icons=true&locale=en" alt="anubhav1575" /></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav1575&" alt="anubhav1575" /></p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav1575&" alt="anubhav1575" /></p>
 <p>
   </p>
 
