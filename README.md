@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML5,PHP,etc**
 
-- 📫 How to reach me **anubhav.singh_bca21@gla.ac.in**
+- 📫 How to reach me **developer.anubhavsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
