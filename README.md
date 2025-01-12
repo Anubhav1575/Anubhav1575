@@ -1,6 +1,6 @@
 <!-- Masterhead Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Masterhead Banner" style="width:100%; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Anubhav1575/banner/main/banner.png" alt="Masterhead Banner" style="width:100%; border-radius: 10px;" />
 </p>
 
 <!-- Profile Header -->
