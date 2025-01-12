@@ -1,3 +1,8 @@
+<!-- Masterhead Banner -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Masterhead Banner" style="width:100%; border-radius: 10px;" />
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">
   <span style="font-size: 2.5rem; font-weight: bold;">👑 Anubhav Singh</span>
@@ -16,7 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anubhav1575&theme=dracula&no-frame=true&row=1&column=7" alt="anubhav1575 trophies" />
 </p>
 
-<!-- Animated GIF or 3D Text -->
+<!-- Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=🔭+Currently+working+on+JAVA+Fullstack.;🌱+Learning+Spring+Boot%2C+Hibernate%2C+JPA.;🚀+Focused+on+Frontend+Excellence!" alt="Typing SVG" />
 </p>
