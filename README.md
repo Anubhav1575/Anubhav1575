@@ -29,7 +29,7 @@
 <!-- About Me Section -->
 <h2 align="center" style="text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);">🌟 About Me</h2>
 <p align="center" style="font-size: 18px; line-height: 1.6; text-align: justify; max-width: 800px; margin: auto;">
-  Passionate about creating interactive and responsive web designs. I’m currently diving deeper into Java Fullstack, mastering Spring Boot, Hibernate, and modern tools to enhance backend capabilities.
+  Passionate about creating interactive and responsive web designs. I’m currently diving deeper into Java Fullstack, Learning Spring Boot, Hibernate, and modern tools to enhance backend capabilities.
 </p>
 
 <!-- Contact Section -->
