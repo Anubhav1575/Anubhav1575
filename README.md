@@ -8,7 +8,7 @@
   <span style="font-size: 2.5rem; font-weight: bold;">👑 Anubhav Singh</span>
 </h1>
 <h3 align="center">
-  <span style="color: #00bfff; text-shadow: 1px 1px 2px #000000;">A Passionate Frontend Developer</span>
+  <span style="color: #00bfff; text-shadow: 1px 1px 2px #000000;">A Passionate Developer</span>
 </h3>
 
 <!-- Visitor Count -->
